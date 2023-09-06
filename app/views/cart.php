@@ -6,7 +6,7 @@
                      <li itemprop="itemListElement" itemscope
                         itemtype="http://schema.org/ListItem">
                         <a itemprop="item" href="<?php echo BASE_URL ?>">
-                        <span itemprop="name">Trang chủ</span></a>
+                        <span itemprop="name">Trang Chủ</span></a>
                         <meta itemprop="position" content="1" />
                      </li>
                      <li itemprop="itemListElement" itemscope
@@ -132,7 +132,7 @@
                            <ul class="contact-list">
                               <li class="addr">
                                  <strong class="title">Địa chỉ của chúng tôi</strong>
-                                 <p><em><strong>Trà Ơi</strong></em><br />
+                                 <p><em><strong>Chè Tiến Yên</strong></em><br />
                                  <p>Cửa hàng:</p>
                                  <p>CN1: Xóm Hồng Thái II, Xã Tân Cương, Tp.Thái Nguyên, Tỉnh Thái Nguyên</p>
                                  <p>CN2: Tổ 5, Phường Tân Thịnh, Tp.Thái Nguyên, Tỉnh Thái Nguyên</p>
