@@ -40,6 +40,8 @@
                 <p class="p_infor">
                     <span><i class="fa fa-envelope-o" aria-hidden="true"></i>Email: chetienyen@gmail.com</span>
                     <span><i class="fa fa-phone" aria-hidden="true"></i> Hotline: 0986.222.435</span>
+                    <a href="<?php echo BASE_URL ?>/login/dashboard"><img src="<?php echo BASE_URL ?>/public/images/admin2.png" width="40" height="40" alt="logoadmin.png" /></a>
+
                 </p>
             </div>
         </div>
